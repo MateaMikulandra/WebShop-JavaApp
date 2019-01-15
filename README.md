@@ -1,4 +1,5 @@
-WebShop - Java Application
+# WebShop - Java Application
+
 Java Web Programing
 
 A web store Java application was created. There are 3 HTML pages  inside the application. 
