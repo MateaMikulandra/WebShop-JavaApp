@@ -1,5 +1,4 @@
-
-Java Web Programing
+#Java Web Programing
 
 A web store Java application was created. There are 3 HTML pages  inside the application. 
 There are pages for Login, Register, Order and Products. 
